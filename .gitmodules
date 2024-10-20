@@ -1,0 +1,18 @@
+[submodule "miniMicroservicesBlogApp/client"]
+	path = miniMicroservicesBlogApp/client
+	url = https://github.com/Juandavid9909/blogMicroservicesClient.git
+[submodule "miniMicroservicesBlogApp/comments"]
+	path = miniMicroservicesBlogApp/comments
+	url = https://github.com/Juandavid9909/blogMicroservicesComments.git
+[submodule "miniMicroservicesBlogApp/event-bus"]
+	path = miniMicroservicesBlogApp/event-bus
+	url = https://github.com/Juandavid9909/blogMicroservicesEventBus.git
+[submodule "miniMicroservicesBlogApp/moderation"]
+	path = miniMicroservicesBlogApp/moderation
+	url = https://github.com/Juandavid9909/blogMicroservicesModeration.git
+[submodule "miniMicroservicesBlogApp/posts"]
+	path = miniMicroservicesBlogApp/posts
+	url = https://github.com/Juandavid9909/blogMicroservicesPosts.git
+[submodule "miniMicroservicesBlogApp/query"]
+	path = miniMicroservicesBlogApp/query
+	url = https://github.com/Juandavid9909/blogMicroservicesQuery.git
